@@ -1,0 +1,3 @@
+{
+  :externs ["raw/externs.js"]
+}
